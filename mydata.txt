@@ -1,0 +1,10 @@
+{"id":"かおりだ","msg":"fasdf"}
+{"id":"かおりだ","msg":""}
+{"id":"かおりだ","msg":"aaa"}
+{"id":"","msg":"tokashiki"}
+{"id":"","msg":"tokashiki"}
+{"id":"","msg":"a"}
+{"id":"","msg":"aaa"}
+{"id":"","msg":"afds"}
+{"id":"","msg":"afds"}
+{"id":"","msg":"afds"}
